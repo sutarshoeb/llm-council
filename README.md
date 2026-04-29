@@ -1,5 +1,9 @@
 # LLM Council — Research Paper Assistant
 
+## **Name :** Shoeb Shakil Sutar
+## **PRN :** 25070149022
+## **Subject :** Large Language Models
+
 A Multi-LLM Deliberation Framework for Research Paper Analysis and Academic Question Answering.
 
 Built from scratch, inspired by Andrej Karpathy's LLM Council project.
@@ -204,4 +208,3 @@ Andrej Karpathy's LLM Council — https://github.com/karpathy/llm-council
 
 ---
 
-*Symbiosis Institute of Technology, Pune — Department of AI & ML — MTech AI & ML — 2025-2026*
