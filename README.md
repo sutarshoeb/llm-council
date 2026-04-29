@@ -122,7 +122,7 @@ Each council response is scored by the meta-model on four academic criteria:
 2. In Google Colab go to `Tools → Secrets → Add new secret`
 3. Name : `OpenRouter`, Value : your API key
 4. Upload `Text_Model_Judge_Response.txt` to `/content/`
-5. Open and run `notebooks/LLM_Council_OpenRouter.ipynb`
+5. Open and run `LLM_Council_OpenRouter.ipynb`
 
 ---
 
@@ -132,7 +132,7 @@ Each council response is scored by the meta-model on four academic criteria:
 2. In Google Colab go to `Tools → Secrets → Add new secret`
 3. Name : `OpenAI`, Value : your API key
 4. Upload `Text_Model_Judge_Response.txt` to `/content/`
-5. Open and run `notebooks/LLM_Council_OpenAI.ipynb`
+5. Open and run `LLM_Council_OpenAI.ipynb`
 6. When prompted, select a mode :
    - `text` — type your research query directly
    - `url` — paste a PDF link (e.g. `https://arxiv.org/pdf/1706.03762`)
