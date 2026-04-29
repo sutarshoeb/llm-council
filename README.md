@@ -31,12 +31,10 @@ llm-council/
 ├── README.md
 ├── Text_Model_Judge_Response.txt        ← Judge prompt used by the meta-model
 │
-├── notebooks/
-│   ├── LLM_Council_OpenRouter.ipynb     ← Multi-provider version
+├── ├── LLM_Council_OpenRouter.ipynb     ← Multi-provider version
 │   └── LLM_Council_OpenAI.ipynb         ← OpenAI-only version with PDF support
 │
-└── report/
-    └── LLM_Council_Report.pdf           ← Full project report
+└── ── LLM_Council_Report.pdf           ← Full project report
 ```
 
 ---
